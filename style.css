@@ -235,7 +235,7 @@ a.opportunity:hover { text-decoration:underline}
    Media Queries
    ========================================================================== */
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 950px) {
 	.social-box {display: none;}
 	.social-box-min {display: table;margin: 50px auto 20px auto;width: 200px;}
 	.social-box-min .fb-button,  .social-box-min .plus-button,  .social-box-min .twitter-button {float: left;margin: 5px;}

@@ -20,7 +20,7 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
     color: #555555;
     background: #fcfcfc;
-	background: url('../img/bg.png') 0 0 repeat;
+	background: url('bg.png') 0 0 repeat;
 }
 img {
     vertical-align: middle;
